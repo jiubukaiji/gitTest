@@ -1,2 +1,2 @@
 # gitTest
-test giaaww
+test giaa
